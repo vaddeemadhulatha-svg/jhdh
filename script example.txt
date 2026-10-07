@@ -1,0 +1,10 @@
+<DOCTYPE html>
+<html>
+<head>
+  <title>link java script bexample</title>
+</head>
+ <body>
+<h1>hello,world!</h>
+<!....link java script file..>
+<script src="script.js"></script>
+</html>
